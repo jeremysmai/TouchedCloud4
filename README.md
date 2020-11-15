@@ -1,6 +1,6 @@
-# TouchedCloud4
-### Official resources for TouchedCloud4 | ~~Find him on mixer [@TouchedCloud4](https://mixer.com/TouchedCloud4)~~ Find Him on Twitch [TouchedCloud4](https://twitch.tv/touchedcloud4)
-TouchedCloud4's Official Repo : [Website](https://jeremysmai.github.io/TouchedCloud4/)
+# TouchedCloud
+### Official resources for TouchedCloud | ~~Find him on mixer [@TouchedCloud4](https://mixer.com/TouchedCloud4)~~ Find Him on Twitch [TouchedCloud](https://twitch.tv/touchedcloud)
+TouchedCloud's Official Repo : [Website](https://jeremysmai.github.io/TouchedCloud4/)
 
 <img src="tcbanner.png">
 <img src="donatetc.png">
